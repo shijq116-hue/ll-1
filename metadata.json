@@ -1,0 +1,7 @@
+{
+  "name": "PhonoFlow - Authentic English for Chinese Speakers",
+  "description": "A systematic English pronunciation and rhythm training app designed specifically for Chinese native speakers, featuring AI-powered correction and authentic conversation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
